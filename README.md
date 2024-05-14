@@ -1,2 +1,2 @@
-# Adote_um_PEt
+# Adote_um_Pet
 Projeto backend com MongoDb e  autenticação JWT
